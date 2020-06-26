@@ -20,7 +20,7 @@ Don't you know Telegram bots and how to setup one? Check [this](https://core.tel
 The library works with the ESP8266 chipset: all the ESP8266 boards are supported.
 
 ### Simple usage 
-Build a flood early warning system with ESP8266 example provided in the [examples folder]().
+Build a flood early warning system with ESP8266 example provided in the [examples folder](https://github.com/andae/biwabot/tree/master/examples/biwabot).
 
 ### Special thanks
 A special thanks go to these people who helped me making this library 
